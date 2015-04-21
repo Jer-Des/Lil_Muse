@@ -16,6 +16,22 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name=".InstrumentsActivity"
+            android:label="@string/title_activity_instruments" >
+        </activity>
+        <activity
+            android:name=".BrassActivity"
+            android:label="@string/title_activity_brass" >
+        </activity>
+        <activity
+            android:name=".WoodwindActivity"
+            android:label="@string/title_activity_woodwind" >
+        </activity>
+        <activity
+            android:name=".PercussionActivity"
+            android:label="@string/title_activity_percussion" >
+        </activity>
     </application>
 
 </manifest>
